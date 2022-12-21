@@ -16,5 +16,5 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="2296187190802005745">"Priručnik sa bezbednosnim i regulatornim informacijama"</string>
+    <string name="app_name" msgid="2296187190802005745">"Приручник са безбедносним и регулаторним информацијама"</string>
 </resources>
