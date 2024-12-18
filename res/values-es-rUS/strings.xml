@@ -16,5 +16,5 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="2296187190802005745">"Manual sobre reglamentación y seguridad"</string>
+    <string name="app_name" msgid="2296187190802005745">"Manual sobre seguridad y reglamentaciones"</string>
 </resources>
