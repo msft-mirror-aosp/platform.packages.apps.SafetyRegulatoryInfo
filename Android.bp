@@ -28,10 +28,10 @@ license {
 
 android_app {
     name: "SafetyRegulatoryInfo",
-    srcs: ["**/*.java"],
-    optimize: {
-        enabled: false,
-    },
+    srcs: ["**/*.kt"],
     sdk_version: "current",
     product_specific: true,
+    static_libs: [
+        "androidx.activity_activity",
+    ],
 }
