@@ -16,5 +16,5 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="2296187190802005745">"ဘေးကင်းလုံခြုံမှုနှင့် ထိန်းသိမ်းခြင်းဆိုင်ရာ လမ်းညွှန်"</string>
+    <string name="app_name" msgid="2296187190802005745">"လုံခြုံမှုနှင့်စည်းမျဉ်း လမ်းညွှန်"</string>
 </resources>
